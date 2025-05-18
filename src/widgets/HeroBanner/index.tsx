@@ -26,7 +26,7 @@ const HeroBanner = () => {
           </div>
            <div>
             <p className="text-[40px] font-bold leading-[100%]">30,000+</p>
-            <p className="font-poppins opacity-60">Happy Customers</p>
+            <p className="font-poppins opacity-60">Happy Customers 200</p>
           </div>
         </div>
       </div>
